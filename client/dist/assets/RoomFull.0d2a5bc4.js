@@ -1,0 +1,1 @@
+import{n as r}from"./index.0565a0a8.js";const o={};var s=function(){var n=this;return n._self._c,n._m(0)},_=[function(){var l=this,n=l._self._c;return n("div",[n("div",{staticClass:"roomfull"},[n("h1",[l._v("Room is Full")])])])}],t=r(o,s,_,!1,null,null,null,null);const a=t.exports;export{a as default};
